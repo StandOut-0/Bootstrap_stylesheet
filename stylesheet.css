@@ -1,0 +1,6 @@
+/* 기본세팅 */
+body{background: #ddd; padding: 2rem;}
+[class^="container"] {background: #ffffff48; border: 1px solid white;}
+.box [class^="col"]{background:#1683ff3f; border: 1px solid #0f7fff;}
+[class^="row-cols"] > .col{background:transparent; border: 1px solid transparent;}
+.minH-80{min-height: 80px;}
